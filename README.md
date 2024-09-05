@@ -1,8 +1,7 @@
 <h1 align="center">Hello, I'm Aurindum Banerjee</h1>
 <h3 align="center">An Undergrad Programmer and Anime Enthusiast</h3>
 
-- 🌱 I’m currently learning **DL, DBM and how the Universe works.**
-
+- 🌱 I’m currently learning **DL, DBM, and how the Universe works.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +47,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurindumbanerjee&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true" alt="aurindumbanerjee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurindumbanerjee&show_icons=true&locale=en&count_private=true&include_all_commits=true" alt="aurindumbanerjee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurindumbanerjee&show_icons=true&locale=en&count_private=true&include_all_commits=true&token=READTOKEN" alt="aurindumbanerjee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aurindumbanerjee&count_private=true" alt="aurindumbanerjee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aurindumbanerjee&count_private=true&token=READTOKEN" alt="aurindumbanerjee" /></p>
