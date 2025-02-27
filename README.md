@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Aurindum Banerjee</h1>
 <h3 align="center">An Undergrad Programmer and Anime Enthusiast</h3>
 
-- 🌱 I’m currently learning **DL, DBM, and how the Universe works.**
+- 🌱 I’m currently learning about **DL, DBM, OS-Dev and how the Universe works.**
 
-<h3 align="left">Cool Joke :</h3>
+<h3 align="left">Have a *cool joke* :</h3>
 <p align="left">
 <!-- Add your social media links here -->
 </p>
