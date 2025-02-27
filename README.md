@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **DL, DBM, OS-Dev and how the Universe works.**
 
-<h3 align="left">Have a *cool joke* :</h3>
+<h3 align="left">Have a cool joke :</h3>
 <p align="left">
 <!-- Add your social media links here -->
 </p>
