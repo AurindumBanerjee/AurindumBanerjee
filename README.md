@@ -48,7 +48,7 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AurindumBanerjee&theme=tokyonight-duo&border_radius=9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AurindumBanerjee)](https://git.io/streak-stats)
 
 
 
