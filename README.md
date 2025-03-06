@@ -5,11 +5,11 @@
 
 -----------------
 
-### 🏆 About Me
+### About Me
 - ⚙️ **Building a custom OS and shell from scratch** to remove bloatware and optimize performance.
-- 🧠 Working on learning **Retrieval-Augmented Generation (RAG)**
+- 🎯 Working on learning **Retrieval-Augmented Generation (RAG)**
 - 🔬 Exploring **Blockchain**.
-- 🎯 Passionate about **DL, IoT**, and cutting-edge tech innovations.
+- 🧠 Passionate about **DL, IoT**, and cutting-edge tech innovations.
 
 ---
 
