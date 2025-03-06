@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Aurindum Banerjee</h1>
 <h3 align="center">An Undergrad Programmer and Anime Enthusiast</h3>
 
-- 🌱 I’m currently learning about **DL, DBM, OS-Dev and how the Universe works.**
+- 🌱 I’m currently learning about **DL, OS-Dev and how the Universe works.**
 
 -----------------
 
