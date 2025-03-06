@@ -5,8 +5,8 @@
 
 -----------------
 
-<h3 align="centre">Have a cool joke :</h3>
-<p align="centre">
+<h3 align="center">Have a cool joke :</h3>
+<p align="center">
 <!-- Add your social media links here -->
 </p>
 
