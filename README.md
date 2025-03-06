@@ -47,7 +47,11 @@
     </a>
 </p>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=AurindumBanerjee&theme=ocean-gradient&border_radius=5)](https://git.io/streak-stats)
-
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+----------------
+
+
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=AurindumBanerjee&theme=ocean-gradient&border_radius=5)](https://git.io/streak-stats)
