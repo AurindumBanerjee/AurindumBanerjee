@@ -5,6 +5,22 @@
 
 -----------------
 
+### 🏆 About Me
+- ⚙️ **Building a custom OS and shell from scratch** to remove bloatware and optimize performance.
+- 🧠 Working on learning **Retrieval-Augmented Generation (RAG)**
+- 🔬 Exploring **Blockchain**.
+- 🎯 Passionate about **DL, IoT**, and cutting-edge tech innovations.
+
+---
+
+### 🌍 Connect with Me
+[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/aurindum-banerjee)  
+[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/AurindumBanerjee)
+
+---
+
+-----------------
+
 <h3 align="left">Have a cool joke :</h3>
 <p align="center">
 <!-- Add your social media links here -->
