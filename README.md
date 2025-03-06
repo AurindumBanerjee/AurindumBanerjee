@@ -9,8 +9,6 @@
 <p align="center">
 <!-- Add your social media links here -->
 </p>
-
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gradientBlue)
 
 -----------------
