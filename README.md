@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **DL, OS-Dev and how the Universe works.**
 
-####Connect with Me
+#### Connect with Me
 
 <a href="https://www.linkedin.com/in/aurindum-banerjee">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32">
