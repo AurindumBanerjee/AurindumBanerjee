@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=64&duration=4000&pause=2000&color=2D95F7&center=true&vCenter=true&width=600&height=60&lines=Hello;I'm+Aurindum+Banerjee;Undergrad+Programmer;DL+Enthusiast;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=32&duration=4000&pause=2000&color=2D95F7&center=true&vCenter=true&width=600&height=60&lines=Hello;I'm+Aurindum+Banerjee;Undergrad+Programmer;DL+Enthusiast;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 <h3 align="center">An Undergrad Programmer and DL Enthusiast</h3>
 
