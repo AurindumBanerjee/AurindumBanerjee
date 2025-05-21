@@ -68,7 +68,6 @@
 
 ----------------
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurindumbanerjee&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&duration=4000&pause=2000&color=2D95F7&center=true&vCenter=true&width=435&lines=Hello;I'm+Aurindum+Banerjee;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=AurindumBanerjee&theme=ocean-gradient&border_radius=5)](https://git.io/streak-stats)
+![Snake animation](https://github.com/aurindumbanerjee/github-readme/blob/output/github-contribution-snake.svg)
