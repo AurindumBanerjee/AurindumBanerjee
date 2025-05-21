@@ -6,8 +6,12 @@
 #### Connect with Me
 
 <a href="https://www.linkedin.com/in/aurindum-banerjee">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32">
 </a>
+<a href="mailto:banerjeeaurindum@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32">
+</a>
+
 
 -----------------
 
