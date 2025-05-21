@@ -1,4 +1,5 @@
-<h1 align="center">Hello, I'm Aurindum Banerjee</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=64&duration=4000&pause=2000&color=2D95F7&center=true&vCenter=true&width=435&lines=Hello;I'm+Aurindum+Banerjee;An+Undergrad+Programmer+and+DL+Enthusiast;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+
 <h3 align="center">An Undergrad Programmer and DL Enthusiast</h3>
 
 - 🌱 I’m currently learning about **DL, OS-Dev and how the Universe works.**
@@ -68,6 +69,4 @@
 
 ----------------
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&duration=4000&pause=2000&color=2D95F7&center=true&vCenter=true&width=435&lines=Hello;I'm+Aurindum+Banerjee;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/aurindumbanerjee/github-readme/blob/output/github-contribution-snake.svg)
