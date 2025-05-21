@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide&size=64&duration=4000&pause=2000&color=2D95F7&center=true&vCenter=true&width=1000&height=60&lines=Hello;I'm+Aurindum+Banerjee;Undergrad+Programmer;DL+Enthusiast;Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
-<h3 align="center">An Undergrad Programmer and DL Enthusiast</h3>
 
 - 🌱 I’m currently learning about **DL, OS-Dev and how the Universe works.**
 
@@ -13,19 +12,10 @@
 -----------------
 
 ### About Me
-- ⚙️ **Building a custom OS and shell from scratch** to remove bloatware and optimize performance.
+- ⚙️ Currently experimenting with **RAG pipelines, custom embeddings**, and **vector DBs**.
 - 🎯 Working on learning **Retrieval-Augmented Generation (RAG)**
 - 🔬 Exploring **Blockchain**.
 - 🧠 Passionate about **DL, IoT**, and cutting-edge tech innovations.
-
------------------
-
-<h3 align="left">Have a cool joke :</h3>
-<p align="center">
-<!-- Add your social media links here -->
-</p>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=gradientBlue)
 
 -----------------
 
@@ -62,6 +52,7 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
 </p>
+
 
 -----------------
 
